@@ -1,0 +1,6 @@
+requests
+requests_cache
+bs4
+pandas
+lxml
+html5lib
